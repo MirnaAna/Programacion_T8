@@ -1,0 +1,2 @@
+NN1	ana	1	55.0	frutas	kkk
+AA1	mmm	4	555.0	frutas	555
